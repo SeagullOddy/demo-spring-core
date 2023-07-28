@@ -20,7 +20,7 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 @MapperScan("com.oddy.mybatis.mapper")
 // 开启事务管理
 @EnableTransactionManagement
-public class MainConfig {
+public class ApplicationConfig {
 
   @Bean
   public TransactionManager transactionManager(DataSource dataSource) {

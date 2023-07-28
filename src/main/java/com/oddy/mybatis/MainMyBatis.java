@@ -1,6 +1,6 @@
 package com.oddy.mybatis;
 
-import com.oddy.mybatis.config.MainConfig;
+import com.oddy.mybatis.config.ApplicationConfig;
 import com.oddy.mybatis.mapper.StudentMapper;
 import lombok.extern.java.Log;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
@@ -10,7 +10,7 @@ public class MainMyBatis {
 
   public static void main(String[] args) {
     AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(
-        MainConfig.class);
+        ApplicationConfig.class);
 
     // 指定 mapper 方式 1
 //    SqlSessionTemplate sqlSessionTemplate = context.getBean(SqlSessionTemplate.class);
