@@ -1,5 +1,5 @@
 # demo-sm
 
-Spring 基础的学习 demo。
+Spring & Mybatis 基础的学习 demo。
 
-Spring basic learning demo. 
+Spring & mybatis basic learning demo. 
