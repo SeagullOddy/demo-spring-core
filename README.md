@@ -1,5 +1,5 @@
-# Spring & MyBatis Demo
+# Spring Framework & MyBatis Demo
 
-Spring & Mybatis 基础的学习 demo。
+Spring Framework & Mybatis 基础的学习 demo。
 
-Spring & Mybatis basic learning demo. 
+Spring Framework & Mybatis basic learning demo. 
